@@ -8,4 +8,11 @@ I wanted to give Native GUI development a try, so I chose Tkinter (Ttkbootstrap)
 
 I wanted to implement a leader board system but it seemed like an overkill for a Number Guessing game.
 
+
 -----------------------------------------------------------------------------------------------------
+## Technical
+### If you want to run this from source code
+1. Create a virtual enviornment and install `ttkbootstrap`
+2. Run the main.py file but make sure the game.py file is in same folder.
+
+Standalone Executable is Included in Release.
